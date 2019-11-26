@@ -1,4 +1,4 @@
-redux-todo-starter-kit.git# README
+# README
 
 ## About
 
