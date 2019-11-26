@@ -1,4 +1,4 @@
-# README
+redux-todo-starter-kit.git# README
 
 ## About
 
@@ -15,8 +15,8 @@ This React starter template uses parcel for its bundler. This repo provides a go
 - Start parcel with the `npm run dev` script and browse to localhost:1234.
 
 ```bash
-git clone https://github.com/tripott/redux-todo-starter-kit.git
-cd redux-todo-starter-kit
+git clone https://github.com/tripott/fall-19-react-starter-kit.git
+cd fall-19-react-starter-kit
 npm i
 npm run dev
-```
+```i
