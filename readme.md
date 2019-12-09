@@ -2,7 +2,7 @@
 
 ## About
 
-This React starter template uses parcel for its bundler. This repo provides a good starter template for the redux todo's app, or any new react app.
+This React starter template uses parcel for its bundler. This repo provides a good starter config template for any new react app.
 
 ## Getting Started
 
