@@ -19,4 +19,4 @@ git clone https://github.com/tripott/fall-19-react-starter-kit.git
 cd fall-19-react-starter-kit
 npm i
 npm run dev
-```i
+```
